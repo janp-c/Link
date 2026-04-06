@@ -10,9 +10,7 @@ Para ver el proyecto funcionado visita el repositorio de GitLab: [Link](https://
 
 ```bash
 cd existing_repo
-git remote add origin https://gitlab.com/janp-c/link.git
-git branch -M main
-git pull origin main
+git clone https://github.com/janp-c/link.git
 ```
 
 ## Contributing
@@ -24,7 +22,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[Creative Commons Attribution 4.0 International.](https://gitlab.com/janp-c/link/-/blob/main/LICENSE?ref_type=heads)
+[MIT License](https://github.com/janp-c/Link/blob/main/LICENSE).
 
 ## Support
 
