@@ -4,7 +4,7 @@ Este es un proyecto inspirado en **LinkTree** para darme a conocer, exponer mis 
 
 ## View Project
 
-Para ver el proyecto funcionado visita el repositorio de GitLab: [Link](https://janp-c.github.io/Link/) y si quieres reutilizarlo en caso de que te guste, te dejo los pasos.
+Para ver el proyecto funcionado visita el repositorio de GitHub: [Link](https://janp-c.github.io/Link/) y si quieres reutilizarlo en caso de que te guste, te dejo los pasos.
 
 ## Usage
 
